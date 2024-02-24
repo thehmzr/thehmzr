@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A passionate Developer eager to learn more</h3>
+<h3 align="center">A coding enthusiast and software developer driven by a passion for innovative solutions. </h3>
 
 - 👨‍💻 All of my projects are available at [github.com/thehmzr](github.com/thehmzr)
 
