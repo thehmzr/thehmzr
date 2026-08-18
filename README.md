@@ -15,7 +15,7 @@ trainer. TypeScript.
 **[Librarry](https://github.com/thehmzr/-Librarry)** is a Laravel book catalogue
  for a university project and recently updated.
 
-Some Backend Dev lately,
-little bit Swift and TypeScript. PHP, Kotlin, Python and C++ before that.
+Some Backend Stuff lately,
+little bit Swift and TypeScript. PHP, Kotlin C++ before that.
 
 thehmzr@gmail.com · [LinkedIn](https://linkedin.com/in/thehmzr)
