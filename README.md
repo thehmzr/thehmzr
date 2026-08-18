@@ -9,7 +9,7 @@ A few of them:
 quote widget that sits on the macOS desktop.
 
 **[keybr-with-course-lessons](https://github.com/thehmzr/keybr-with-course-lessons)**
-is a fork of keybr.com that adds structured course lessons to the typing
+is a fork of keybr.com  added structured course lessons to the typing
 trainer. TypeScript.
 
 **[Librarry](https://github.com/thehmzr/-Librarry)** is a Laravel book catalogue
