@@ -16,6 +16,6 @@ trainer. TypeScript.
  for a university project and recently updated.
 
 Some Backend Stuff lately,
-little bit Swift and TypeScript. PHP, Kotlin C++ before that.
+little bit Py and TypeScript. Dart, PHP, Kotlin C++ before that.
 
 thehmzr@gmail.com · [LinkedIn](https://linkedin.com/in/thehmzr)
